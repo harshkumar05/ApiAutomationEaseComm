@@ -1,0 +1,8 @@
+<configuration>
+    <theme>standard</theme>
+    <encoding>utf-8</encoding>
+    <documentTitle>Test Execution Report</documentTitle>
+    <reportName>Cucumber Automation Report</reportName>
+    <chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+    <timelineEnabled>true</timelineEnabled>
+</configuration>
