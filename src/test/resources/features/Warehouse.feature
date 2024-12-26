@@ -1,10 +1,5 @@
-Feature: Get all products from the api
+Feature: WareHouse Api Validation
 
-  @Smoke1
-  Scenario: Verify the get api for the products
-    Given I hit the url of get products api endpoint
-    When I pass the url of products in the request
-    Then I receive the response code as 200
 
   @sc-200
   Scenario: Verify Success Scenario
